@@ -1,0 +1,2 @@
+#Banking System
+The Banking System Project is a robust application designed to provide essential banking functionalities. It allows users to securely manage their accounts, perform transactions, view account details, and generate statements. Built using Java (Spring Boot) for backend development and MySQL as the database, this system demonstrates the integration of core concepts such as authentication, database management, and real-time data operations.
